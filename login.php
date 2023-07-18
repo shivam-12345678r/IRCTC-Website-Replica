@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>|| IRCTC Corporate Portal ||</title>
+  <title>|| NWR Portal ||</title>
   <link rel="icon" type="image/png" href="assets/images/favicon.png">
   <!--Main style css-->
   <link rel="stylesheet" href="assets/css/style.css"> 
@@ -132,7 +132,7 @@
           </div>
         </div>
       </div>
-<div class="copyright">© 2021 IRCTC | MINI PROJECT BY Himanshu, Mayank, Yogesh.</div>
+<div class="copyright">© 2021 IRCTC | MINI PROJECT BY Simarjeet Kaur.</div>
 </footer>
 <a id="back-to-top" href="#" class="back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left">
   <i class="fa fa-arrow-up"></i>
