@@ -8,7 +8,7 @@ include("auth_session.php");
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <title>|| IRCTC Corporate Portal ||</title>
+  <title>|| NWR Portal ||</title>
   <link rel="icon" type="image/png" href="assets/images/favicon.png">
   <!--Main style css-->
   <link rel="stylesheet" href="assets/css/style.css"> 
@@ -65,7 +65,7 @@ include("auth_session.php");
     </div>
   </header><br><br><br><br>
    <div class="navbar navbar-expand-sm bg-dark navbar-dark">
-       <a class="navbar-brand" href=""><i class="fa fa-train" aria-hidden="true"></i>IRCTC Ticket Booking System</a>
+       <a class="navbar-brand" href=""><i class="fa fa-train" aria-hidden="true"></i>NWR Ticket Booking System</a>
     </div>
   	<div class="row mx-1 my-1">
 
@@ -120,7 +120,7 @@ include("auth_session.php");
           </div>
         </div>
       </div>
-<div class="copyright">© 2021 IRCTC | MINI PROJECT BY Himanshu, Mayank, Yogesh.</div>
+<div class="copyright">© 2021 IRCTC | MINI PROJECT BY Simarjeet.</div>
 </footer>
 <a id="back-to-top" href="#" class="back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left">
   <i class="fa fa-arrow-up"></i>
